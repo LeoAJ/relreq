@@ -1,4 +1,4 @@
-# Relreq
+# Relreq [![NPM version](https://badge.fury.io/js/relreq.svg)](http://badge.fury.io/js/relreq)
 
 wrap node `require` with relative path
 
