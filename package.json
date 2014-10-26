@@ -1,6 +1,6 @@
 {
   "name": "relreq",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wrap node `require` with relative path",
   "keywords": [
     "relative",
@@ -10,5 +10,6 @@
     "name": "Leo Hsieh",
     "url": "http://leoj.net"
   },
+  "main": "./relreq.js",
   "license": "MIT"
 }
