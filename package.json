@@ -1,0 +1,14 @@
+{
+  "name": "relreq",
+  "version": "1.0.0",
+  "description": "wrap node `require` with relative path",
+  "keywords": [
+    "relative",
+    "path"
+  ],
+  "author": {
+    "name": "Leo Hsieh",
+    "url": "http://leoj.net"
+  },
+  "license": "MIT"
+}
