@@ -1,6 +1,6 @@
 {
   "name": "relreq",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "wrap node `require` with relative path",
   "keywords": [
     "relative",
