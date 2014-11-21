@@ -30,3 +30,6 @@ MIT
 
 * 2014-10-25 `v1.0.0` Initial release
 * 2014-11-06 `v1.0.3` Support multiple input parameters
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/LeoAJ/relreq/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
