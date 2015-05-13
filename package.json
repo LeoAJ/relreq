@@ -1,15 +1,21 @@
 {
   "name": "relreq",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "wrap node `require` with relative path",
   "keywords": [
     "relative",
-    "path"
+    "path",
+    "babel"
+    "ES6"
   ],
   "author": {
     "name": "Leo Hsieh",
     "url": "http://leoj.net"
   },
-  "main": "./relreq.js",
-  "license": "MIT"
+  "main": "dist/relreq.js",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-babel": "^5.1.0"
+  }
 }
