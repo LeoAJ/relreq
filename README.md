@@ -1,4 +1,4 @@
-# Relreq [![NPM version](https://badge.fury.io/js/relreq.svg)](http://badge.fury.io/js/relreq)
+# Relreq [![NPM version](https://badge.fury.io/js/relreq.svg)](http://badge.fury.io/js/relreq) [![devDependency Status](https://david-dm.org/LeoAJ/relreq/dev-status.svg)](https://david-dm.org/LeoAJ/relreq#info=devDependencies)
 
 wrap node `require` with relative path
 
@@ -29,8 +29,8 @@ MIT
 ## Release History
 
 * 2015-05-13 `v1.0.4` Refactor with ES6
-* 2014-10-25 `v1.0.0` Initial release
 * 2014-11-06 `v1.0.3` Support multiple input parameters
+* 2014-10-25 `v1.0.0` Initial release
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/LeoAJ/relreq/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
