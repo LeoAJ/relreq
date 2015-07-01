@@ -28,9 +28,9 @@ MIT
 
 ## Release History
 
+* 2015-07-01 `v1.0.5` Fix package.json
 * 2015-05-13 `v1.0.4` Refactor with ES6
 * 2014-11-06 `v1.0.3` Support multiple input parameters
 * 2014-10-25 `v1.0.0` Initial release
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/LeoAJ/relreq/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
