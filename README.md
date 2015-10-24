@@ -1,8 +1,10 @@
 # Relreq
 
-[![Build Status](https://travis-ci.org/LeoAJ/relreq.svg)](https://travis-ci.org/LeoAJ/relreq)
-[![NPM version](https://badge.fury.io/js/relreq.svg)](http://badge.fury.io/js/relreq) [![devDependency Status](https://david-dm.org/LeoAJ/relreq/dev-status.svg)](https://david-dm.org/LeoAJ/relreq#info=devDependencies)
-[![Coverage Status](https://coveralls.io/repos/LeoAJ/relreq/badge.svg?branch=master&service=github)](https://coveralls.io/github/LeoAJ/relreq?branch=master)
+[![Travis](https://img.shields.io/travis/LeoAJ/relreq.svg?style=flat-square)](https://travis-ci.org/LeoAJ/relreq)
+[![npm](https://img.shields.io/npm/v/relreq.svg?style=flat-square)](https://www.npmjs.com/package/relreq)
+[![David](https://img.shields.io/david/dev/LeoAJ/relreq.svg?style=flat-square)](https://david-dm.org/LeoAJ/relreq#info=devDependencies)
+[![Coveralls](https://img.shields.io/coveralls/LeoAJ/relreq.svg?style=flat-square)](https://coveralls.io/github/LeoAJ/relreq?branch=master)
+[![npm](https://img.shields.io/npm/l/express.svg?style=flat-square)](https://github.com/LeoAJ/relreq/blob/master/LICENSE)
 
 wrap node `require` with relative path
 
