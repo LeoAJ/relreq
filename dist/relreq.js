@@ -1,11 +1,10 @@
 'use strict';
 
-Object.defineProperty(exports, '__esModule', {
+Object.defineProperty(exports, "__esModule", {
   value: true
 });
-var path = require('path');
 
-exports['default'] = function () {
+exports.default = function () {
   for (var _len = arguments.length, args = Array(_len), _key = 0; _key < _len; _key++) {
     args[_key] = arguments[_key];
   }
@@ -15,4 +14,4 @@ exports['default'] = function () {
   })));
 };
 
-module.exports = exports['default'];
+var path = require('path');
