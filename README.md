@@ -52,6 +52,7 @@ MIT
 
 ## Release History
 
+* 2015-11-03 `v1.0.7` upgrade to babel 6
 * 2015-08-12 `v1.0.6` Add unit testing, code coverage and remove gulp
 * 2015-07-01 `v1.0.5` Fix package.json
 * 2015-05-13 `v1.0.4` Refactor with ES6
