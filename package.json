@@ -14,10 +14,10 @@
     "url": "https://github.com/LeoAJ/relreq.git"
   },
   "scripts": {
-    "cover": "./node_modules/istanbul/lib/cli.js cover --hook-run-in-context node_modules/mocha/bin/_mocha dist/relreq-spec.js -- -R spec",
+    "cover": "istanbul cover --hook-run-in-context node_modules/mocha/bin/_mocha dist/relreq-spec.js -- -R spec",
     "clean": "rimraf dist/",
-    "test": "./node_modules/.bin/mocha dist/relreq-spec.js --reporter spec",
-    "build": "./node_modules/.bin/babel src -d dist",
+    "test": "mocha dist/relreq-spec.js --reporter spec",
+    "build": "babel src -d dist",
     "start": "npm run clean && npm run build"
   },
   "engines": {
