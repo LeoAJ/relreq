@@ -1,5 +1,7 @@
 'use strict';
 
+var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol ? "symbol" : typeof obj; };
+
 var _chai = require('chai');
 
 var _index = require('../index');
@@ -8,15 +10,13 @@ var _index2 = _interopRequireDefault(_index);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-function _typeof(obj) { return obj && typeof Symbol !== "undefined" && obj.constructor === Symbol ? "symbol" : typeof obj; }
-
 var isArray = Array.isArray || function (array) {
   return Object.prototype.toString.call(array) === '[object Array]';
 };
 
 describe('Testing for relreq module: ', function () {
 
-  var module = undefined;
+  var module = void 0;
 
   beforeEach(function () {
     module = (0, _index2.default)('test/module/a//b/c/module');
